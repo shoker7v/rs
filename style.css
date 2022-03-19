@@ -145,6 +145,7 @@ textarea {
     background: none;
     border: none;
     outline-style: none;
+    resize: none;
 }
 
 .btn {
